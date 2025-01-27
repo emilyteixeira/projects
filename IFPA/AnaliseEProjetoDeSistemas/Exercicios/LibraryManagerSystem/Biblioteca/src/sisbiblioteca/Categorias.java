@@ -1,6 +1,8 @@
 package sisbiblioteca;
 
-public class Categorias {
+import java.util.List;
+
+public class Categorias implements List<Categorias> {
     private String nomeCategoria;
 
     public Categorias(String nomeCategoria) {
