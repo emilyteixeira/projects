@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91549edf-3997-4322-b27d-b25f6944a4a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Lista08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula11/Lista08Cont/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula11/Lista08Cont/.idea/Lista08Cont.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula11/Lista08Cont/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula11/Lista08Cont/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula11/Lista08Cont/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula11/Lista08Cont/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula11/Lista08Cont/Ex08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula11/Lista09/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula11/Lista09/.idea/Lista09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula11/Lista09/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula11/Lista09/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula11/Lista09/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula11/Lista09/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula11/Lista09/Ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula11/Lista09/Ex02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula11/Lista09/Ex03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula11/Lista09/Ex04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula11/Lista09/Ex05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula11/Lista09/Ex06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula11/Lista09/Ex07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula11/Lista09/Ex08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula11/Lista09/Ex09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../onebitcode-reactnative" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../afazeres/afazeres/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../afazeres/afazeres/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../afazeres/afazeres/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../afazeres/afazeres/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../afazeres/afazeres/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../afazeres/afazeres/src/router/index.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2WrgebFIc7wP0Zu2Io98RLaCAam" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/teixe/Desktop/Projects/IFPA/AlgoritmosELogica/Aula11/Lista09",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Ex01" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Lista08" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\teixe\Desktop\Projects\IFPA\AlgoritmosELogica\Aula10\Lista08\Ex01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91549edf-3997-4322-b27d-b25f6944a4a3" name="Changes" comment="" />
+      <created>1697496212051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697496212051</updated>
+      <workItem from="1697496214086" duration="8004000" />
+      <workItem from="1697604814407" duration="332000" />
+      <workItem from="1698094560051" duration="3094000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex01.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lista08$Ex04.coverage" NAME="Ex04 Coverage Results" MODIFIED="1697498320344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Lista08$Ex01.coverage" NAME="Ex01 Coverage Results" MODIFIED="1697496956778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Lista08$Ex07.coverage" NAME="Ex07 Coverage Results" MODIFIED="1698101024185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Lista08$Ex02.coverage" NAME="Ex02 Coverage Results" MODIFIED="1697497093347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Lista08$Ex05.coverage" NAME="Ex05 Coverage Results" MODIFIED="1697499285417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Lista08$Ex06.coverage" NAME="Ex06 Coverage Results" MODIFIED="1697502199772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Lista08$Ex03.coverage" NAME="Ex03 Coverage Results" MODIFIED="1697497793484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
